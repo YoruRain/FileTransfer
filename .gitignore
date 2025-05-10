@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test files
+/test_file/
+/test_file/**
+test.py
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+venv/
+env/
+.env 
